@@ -1,8 +1,5 @@
 # LDS 21 Blackjack database crate script
  This solution contains MSSQL database create script.
- *
- *
- *
  Database consists of 5 tables which are listed below;
  
  - Card: *Stores the cards in a standard type of playing cards.*
